@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-c08d271191a0420bac1b7a3f7bd7e0cb
+  name: Online Publication
+  url: https://wikis.mit.edu/confluence/display/relate
+  weight: 1000
